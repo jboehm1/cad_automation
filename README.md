@@ -44,8 +44,9 @@ These scripts are small, editable macros intended to speed up repetitive CAD tas
 3. Paste the contents of one of the `carport_*.py` files into a macro and run it.
 
 Run from command line, example:
-´´´/Applications/FreeCAD.app/Contents/MacOS/FreeCAD /Users/jeanb/Documents/code/simple_cad/carport_1.1.py
-´´´
+```text
+/Applications/FreeCAD.app/Contents/MacOS/FreeCAD /Users/jeanb/Documents/code/simple_cad/carport_1.1.py
+```
 
 Example: run as macro
 ```text
