@@ -89,3 +89,7 @@ else:
 # 2. Lance la macro depuis l’interface graphique de FreeCAD (sinon PNG impossible)
 # 3. La vue est automatiquement placée en isométrique, fond blanc, résolution HD
 # 4. Le STEP est exporté pour utilisation CAO, plans ou import Odoo
+
+
+FreeCAD.closeDocument(doc.Name)
+FreeCADGui.getMainWindow().close()
